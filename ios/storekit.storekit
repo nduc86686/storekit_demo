@@ -1,0 +1,115 @@
+{
+  "identifier" : "925E0D66",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "20DC73BE",
+      "localizations" : [
+        {
+          "description" : "400KC",
+          "displayName" : "Gói 400KC",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "product_3",
+      "referenceName" : "product_3",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6780E22B",
+      "localizations" : [
+        {
+          "description" : "100KC",
+          "displayName" : "Gói 100KC",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "product_1",
+      "referenceName" : "product_1",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "AA546729",
+      "localizations" : [
+        {
+          "description" : "200KC",
+          "displayName" : "Gói 200KC",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "product_2",
+      "referenceName" : "product_2",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "7A4F3B61",
+      "localizations" : [
+        {
+          "description" : "300KC",
+          "displayName" : "Gói 300KC",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Desscription product",
+          "displayName" : "Product5",
+          "locale" : "ar"
+        }
+      ],
+      "productID" : "product_5",
+      "referenceName" : "product_5",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "043AE63F",
+      "localizations" : [
+
+      ],
+      "name" : "newteam",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "5A78BF7F",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "Gói vip",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "product_4",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "product_4",
+          "subscriptionGroupID" : "043AE63F",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
